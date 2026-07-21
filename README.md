@@ -15,7 +15,7 @@ A PyTorch implementation of a deep learning-based model.
 
 # Dataset
 
-- In our experiments, we used a proton therapy planning dataset consisting of non-contrast CT and contrast-enhanced MRI scans collected at a tertiary medical center.
+- In our experiments, we used a proton therapy planning dataset consisting of non-contrast CT and contrast-enhanced MRI scans collected at Samsung Medical center.
 
 # Evaluation
 
