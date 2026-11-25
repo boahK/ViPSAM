@@ -20,3 +20,17 @@ A PyTorch implementation of a deep learning-based model.
 # Evaluation
 
 - test.py is the implementation code if inference for liver lesion segmentation
+
+# Citation
+If you find our work useful in your research, please cite our paper:
+
+```bibtex
+@inproceedings{lee2026vipsam,
+  title={ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model},
+  author={Lee, San and Kim, Nalee and Yu, Jeong Il and Park, Hee Chul and Kim, Boah},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={668--677},
+  year={2026},
+  organization={Springer}
+}
+```
